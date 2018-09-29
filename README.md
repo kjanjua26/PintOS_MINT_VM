@@ -6,7 +6,7 @@ Also, I followed instructions from several online resources. Have a look for mor
   <li><a href="https://tssurya.wordpress.com/2014/08/16/installing-pintos-on-your-machine/">A Blog Post</a>
   <li><a href="http://web.stanford.edu/class/cs140/projects/pintos/pintos_1.html#SEC1">Official PINTOS Page</a>
 </ol>
-Since these resources were either out-dated or hard to follow, I made a new instructions. 
+Since these resources were either out-dated or hard to follow, I made a new instructions. </br>
 ## Setting Up VM.
 Although Ubuntu is the go-to Linux distro, but here I went with Mint Cinammon. The solution should work fine on both distros.</br>
 First, download and install VirtualBox from: <a href="https://www.virtualbox.org/wiki/Downloads">Here</a>.</br>
